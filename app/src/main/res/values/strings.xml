@@ -48,14 +48,15 @@
     <string name="autoupdate_disabled">Automatic update is disabled</string>
 
     <!-- Notification -->
-    <string name="notification_title">ResurrectionRemix OS update</string>
+    <string name="notification_title">LiquidRemix OTA update</string>
     <string name="notification_message">A new version is available!</string>
-    <string name="resurrection_channel">ResurrectionOTA notifications</string>
-    <string name="resurrection_channel_description">Notifications about new ResurrectionRemix OS updates</string>
+    <string name="liquid_channel">LiquidRemix notifications</string>
+    <string name="liquid_channel_description">Notifications about new LiquidRemix OTA updates</string>
 
     <!-- Dialog -->
     <string name="dialog_message">Checking for ROM updates, please wait…</string>
 
     <!-- Toast -->
     <string name="toast_message">There\'s no browser installed</string>
+
 </resources>
