@@ -47,13 +47,13 @@
   <string name="autoupdate_disabled">Gli aggiornamenti automatici sono disabilitati</string>
   
   <!-- Notification -->
-  <string name="notification_title">Aggiornamento di ResurrectionRemix OS</string>
+  <string name="notification_title">Aggiornamento di LiquidRemix</string>
   <string name="notification_message">È disponibile una nuova versione!</string>
-  <string name="resurrection_channel">Notifiche di ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Notifiche relative ai nuovi aggiornamenti di ResurrectionRemix OS</string>
+  <string name="resurrection_channel">Notifiche di LiquidRemix</string>
+  <string name="resurrection_channel_description">Notifiche relative ai nuovi aggiornamenti di LiquidRemix</string>
   
   <!-- Dialog -->
-  <string name="dialog_message">Ricerca aggiornamenti in corso, attendere prego&#8230;</string>
+  <string name="dialog_message">Ricerca aggiornamenti in corso, attendere prego</string>
   
   <!-- Toast -->
   <string name="toast_message">Nessun browser installato</string>
